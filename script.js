@@ -1,4 +1,4 @@
-let apiKey = "2a5e17dce8914cc1122f1e89e7fd69af";
+let apiKey = "";
 let apiUrl = "https://api.openweathermap.org/data/2.5/forecast";
 
 async function getWeatherByCityName() {
